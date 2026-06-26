@@ -2,7 +2,7 @@ import streamlit as st
 import PyPDF2
 import google.generativeai as genai
 
-GOOGLE_API_KEY = "AQ.Ab8RN6LF60WEsAzTS6YnC_DYiLJmy4v2q2IL1EMO1Xzupic2Vw"
+GOOGLE_API_KEY = "YOUR_GEMINI_API_KEY_HERE"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 st.set_page_config(page_title="AI Resume Analyzer", layout="wide")
