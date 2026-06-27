@@ -1,7 +1,7 @@
 # AI---Resume---analyzer
 AI - powered Resume Analyzer that evaluates resumes, extracts key skills, and provides actionable feedback for improvement.
 
-### ---Housing---Price---Prediction---Project
+# ---Housing---Price---Prediction---Project
 
 **objectives:** This project uses linear Regression to predict housing prices based on various features.
 
