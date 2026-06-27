@@ -3,7 +3,7 @@ AI - powered Resume Analyzer that evaluates resumes, extracts key skills, and pr
 
 # ---Housing---Price---Prediction---Project
 
-**objectives:** This project uses linear Regression to predict housing prices based on various features.
+**Objectives:** This project uses linear Regression to predict housing prices based on various features.
 
 **Key Skills:**
 * Data cleaning using Pandas.
